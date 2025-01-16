@@ -5,5 +5,7 @@
 from .rasterfairy import *
 from .coonswarp import *
 from .rfoptimizer import *
+from .prime import *
+from .utils import *
 # from images2gif import *
 
